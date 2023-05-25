@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- int number=2;
+ int number=7;
  int multiplier=1;
  int product;
  for(multiplier=1;multiplier<=10;multiplier++)

@@ -5,8 +5,9 @@ int main()
  int sum=0;
  for (number=1;number<=10;number++)
  {
-  sum=sum+number;
-  printf("%d\n",number);
+ 	printf("%d\n",number);
+ 	sum=sum+number;
+ }
+ printf("the sum is %d",sum);
+ return 0;
 }
-printf("the sum is %d",sum);
-return 0;}
